@@ -1,2 +1,2 @@
-bentleywayfinding-test
-======================
+bentleywayfinding
+=================
