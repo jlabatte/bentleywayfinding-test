@@ -1,0 +1,1 @@
+<!-- config.php — Main configuration file. Should store site wide settings. -->
